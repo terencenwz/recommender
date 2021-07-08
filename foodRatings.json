@@ -1,62 +1,62 @@
 {
-    "Muthu": 
+    "David": 
     {
-        "Super Supreme": 4,
-        "Pepperoni": 4.5,
-        "Seafood Deluxe": 3.0,
-        "Hawaiian": 4.5,
-        "Chicken Supreme": 1.0
+        "Supreme": 4.5,
+        "Pepperoni": 1.0,
+        "Seafood": 1.5,
     },
-    "Swee Lan": 
+    "Sharon": 
     {
-        "Super Supreme": 3.0,
+        "Supreme": 3.0,
         "Pepperoni": 1.5,
-        "Seafood Deluxe": 1.0,
-        "Hawaiian": 2.0,
-        "Chicken Supreme": 5.0,
-        "Crispy Fish Arrabiata": 4.5 
+        "Seafood": 1.0,
+        "Hawaiian": 2.5,
+        "Chicken": 5.0,
+        "Veggie": 4.5 
     },
     "Billy": 
     {
-        "Super Supreme": 4.5,
-        "Pepperoni": 5.0,
-        "Hawaiian": 4.5,
-        "Chicken Supreme": 1.0
-    },
-    "Samad": 
-    {
-        "Pepperoni": 3.5,
-        "Seafood Deluxe": 5.0,
-        "Chicken Supreme": 1.0,
-        "Hawaiian": 5.0,
-        "Crispy Fish Arrabiata": 1.0 
-    },
-    "Habibah": 
-    {
-       "Pepperoni": 2.5,
-       "Crispy Fish Arrabiata": 4.5,
-       "Hawaiian": 3.0
-    },
-    "Dewi": 
-    {
-        "Super Supreme": 5.0,
+        "Supreme": 2.0,
         "Pepperoni": 4.5,
-        "Seafood Deluxe": 4.0,
-        "Hawaiian": 2.5,
-        "Chicken Supreme": 1.0,
-        "Crispy Fish Arrabiata": 1.5
+        "Seafood": 1.5,
+        "Hawaiian": 2.0,
+        "Chicken": 1.0,
+        "Veggie": 3.5 
     },
-    "Jolene": 
+    "Taufik": 
     {
-       "Super Supreme": 3.5,
-       "Pepperoni": 3.0,
-       "Chicken Supreme": 1.0,
-       "Hawaiian": 4.5,
-       "Crispy Fish Arrabiata": 3.0
+        "Supreme": 1.0,
+        "Pepperoni": 1.5,
+        "Seafood": 5.0,
+        "Hawaiian": 3.5,
+        "Chicken": 3.0,
+        "Veggie": 4.5 
     },
-    "Teck Seng": 
+    "Chloe": 
     {
-       "Chicken Supreme": 1.5,
-       "Seafood Deluxe": 4.5
+        "Supreme": 3.0,
+        "Pepperoni": 1.5,
+        "Seafood": 1.0,
+        "Hawaiian": 3.5,
+        "Chicken": 5.0,
+        "Veggie": 4.5 
+    },
+    "Muthu": 
+    {
+        "Supreme": 2.0,
+        "Pepperoni": 1.5,
+        "Seafood": 5.0,
+        "Hawaiian": 1.5,
+        "Chicken": 5.0,
+        "Veggie": 4.0 
+    },
+    "Anita": 
+    {
+       "Supreme": 5.0,
+        "Pepperoni": 2.0,
+        "Seafood": 1.5,
+        "Hawaiian": 4.5,
+        "Chicken": 3.0,
+        "Veggie": 2.5 
     }
 }
