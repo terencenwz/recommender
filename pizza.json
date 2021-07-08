@@ -1,0 +1,62 @@
+{
+    "David": 
+    {
+        "Supreme": 4.5,
+        "Pepperoni": 1.0,
+        "Seafood": 1.5,
+    },
+    "Sharon": 
+    {
+        "Supreme": 4.0,
+        "Pepperoni": 1.5,
+        "Seafood": 5.0,
+        "Hawaiian": 3.0,
+        "Chicken": 5.0,
+        "Veggie": 4.5 
+    },
+    "Billy": 
+    {
+        "Supreme": 2.0,
+        "Pepperoni": 4.5,
+        "Seafood": 4.5,
+        "Hawaiian": 2.0,
+        "Chicken": 1.0,
+        "Veggie": 3.5 
+    },
+    "Taufik": 
+    {
+        "Supreme": 1.0,
+        "Pepperoni": 1.5,
+        "Seafood": 5.0,
+        "Hawaiian": 1.5,
+        "Chicken": 3.0,
+        "Veggie": 4.5 
+    },
+    "Chloe": 
+    {
+        "Supreme": 5.0,
+        "Pepperoni": 4.5,
+        "Seafood": 1.0,
+        "Hawaiian": 4.0,
+        "Chicken": 5.0,
+        "Veggie": 4.5 
+    },
+    "Muthu": 
+    {
+        "Supreme": 2.0,
+        "Pepperoni": 1.5,
+        "Seafood": 5.0,
+        "Hawaiian": 1.5,
+        "Chicken": 1.0,
+        "Veggie": 4.0 
+    },
+    "Anita": 
+    {
+       "Supreme": 5.0,
+        "Pepperoni": 2.0,
+        "Seafood": 1.5,
+        "Hawaiian": 4.0,
+        "Chicken": 1.0,
+        "Veggie": 2.5 
+    }
+}
